@@ -8,7 +8,7 @@ These files are used by the **GeoFS A350 Startup userscript**.
 
 If you are looking for the actual addon and the Tampermonkey userscript, please go to the main repository:
 
-**[Go to the GeoFS A350 Startup repository](YOUR-LINK-HERE)**
+**[Go to the GeoFS A350 Startup repository](https://github.com/Vicke55/GeoFS-4.0-a350-startup/tree/main)**
 
 The main repository contains the userscript and instructions for installing and using the addon.
 
